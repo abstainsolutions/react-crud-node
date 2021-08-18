@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: Aug 17, 2021 at 12:12 PM
+-- Generation Time: Aug 18, 2021 at 06:35 AM
 -- Server version: 5.5.62
 -- PHP Version: 7.3.21
 
@@ -35,16 +35,15 @@ CREATE TABLE IF NOT EXISTS `users` (
   `cdate` int(11) DEFAULT NULL,
   `mdate` int(11) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM AUTO_INCREMENT=15 DEFAULT CHARSET=latin1;
+) ENGINE=MyISAM AUTO_INCREMENT=18 DEFAULT CHARSET=latin1;
 
 --
 -- Dumping data for table `users`
 --
 
 INSERT INTO `users` (`id`, `username`, `designation`, `cdate`, `mdate`) VALUES
-(8, 'Anubhav', 'Developer', 1629101677, 1629101677),
-(13, 'Jatin', 'Designer', 1629191649, 1629191649),
-(14, 'Rahul', 'Developer', 1629191662, 1629191662);
+(16, 'Leon S. Kennedy', 'Developer', 1629268429, 1629268429),
+(17, 'Jill Valentine', 'Designer', 1629268478, 1629268478);
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
