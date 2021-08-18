@@ -1,4 +1,8 @@
-## Simple Crude Application With React And Express JS
+## About Project
+
+Simple Crud Application With React And Express JS.
+
+## Steps to set up application
 
 1. Download and extract ZIP
 2. Run any local server like wamp or xamp as we need to make DB connection
