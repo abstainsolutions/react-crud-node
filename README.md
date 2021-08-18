@@ -2,14 +2,16 @@
 
 Simple Crud Application With React And Express JS.
 
-## Steps to set up application
+## Steps to set up DB
 
 1. Download and extract ZIP
 2. Run any local server like wamp or xamp as we need to make DB connection
 3. Find react.sql file at root of application
 4. Create DB named "react" and import sql
 
-## Now we will set up node server for api endpoints
+## Steps to set up node server
+
+DB details can be changed from index.js inside node folder. 
 
 1. Move inside node folder in root directory
 2. Install modules via following commands
@@ -17,20 +19,16 @@ Simple Crud Application With React And Express JS.
 4. npm i cors
 5. npm i mysql
 6. npm i body-parser
+7. node index.js					// runs node server
 
-DB details can be changed from index.js inside node folder. 
- 
-Run node server via moving inside node folder and run following command
-1. node index.js
-
-## Now lets run react app
+## Steps to set up react app
 
 1. Move into project main directory run following command
 2. npm install
 3. npm run dev 
 4. Open returned url in preferred browser
 
-## Pointers
+## Help
 
 1. If node server gives error make sure you have started local server.
 
