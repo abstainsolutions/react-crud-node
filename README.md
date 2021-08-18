@@ -16,7 +16,7 @@
 
 DB details can be changed from index.js inside node folder. 
 
-Run node server via moving inside node folder and run following command : - 
+Run node server via moving inside node folder and run following command
 1. node index.js
 
 ## Now lets run react app
