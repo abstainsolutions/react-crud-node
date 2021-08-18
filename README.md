@@ -35,3 +35,7 @@ DB details can be changed from index.js inside node folder.
 ## Preview
 
 ![Screenshot](screenshot.png)
+
+## Contact
+
+developer.abstain@gmail.com
