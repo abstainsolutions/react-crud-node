@@ -40,5 +40,6 @@ DB details can be changed from index.js inside node folder.
 
 Abstain Solutions - developer.abstain@gmail.com
 
-https://github.com/abstainsolutions/
-https://www.abstainsolutions.com/
+All Projects : https://github.com/abstainsolutions/
+
+Website : https://www.abstainsolutions.com/
