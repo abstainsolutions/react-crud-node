@@ -25,4 +25,6 @@ Run node server via moving inside node folder and run following command
 2. npm install
 3. npm run dev 
 
+## Preview
 
+![Screenshot](screenshot.png)
