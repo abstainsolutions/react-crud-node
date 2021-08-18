@@ -15,7 +15,7 @@
 6. npm i body-parser
 
 DB details can be changed from index.js inside node folder. 
-
+ 
 Run node server via moving inside node folder and run following command
 1. node index.js
 
@@ -24,6 +24,11 @@ Run node server via moving inside node folder and run following command
 1. Move into project main directory run following command
 2. npm install
 3. npm run dev 
+4. Open returned url in preferred browser
+
+## Pointers
+
+1. If node server gives error make sure you have started local server.
 
 ## Preview
 
