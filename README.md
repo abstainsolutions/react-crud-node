@@ -9,7 +9,7 @@ Simple Crud Application With React And Express JS.
 3. Find react.sql file at root of application
 4. Create DB named "react" and import sql
 
-## Steps to set up node server
+## Steps to set up run node server
 
 DB details can be changed from index.js inside node folder. 
 
@@ -21,7 +21,7 @@ DB details can be changed from index.js inside node folder.
 6. npm i body-parser
 7. node index.js					// runs node server
 
-## Steps to set up react app
+## Steps to set up and run react app
 
 1. Move into project main directory run following command
 2. npm install
