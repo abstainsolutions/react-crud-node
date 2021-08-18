@@ -23,6 +23,6 @@ Run node server via moving inside node folder and run following command : -
 
 1. Move into project main directory run following command
 2. npm install
-3. npm run dev
+3. npm run dev 
 
 
