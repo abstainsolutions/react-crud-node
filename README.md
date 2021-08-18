@@ -4,7 +4,7 @@ Simple Crud Application With React And Express JS.
 
 ## Steps to set up DB
 
-1. Download and extract ZIP
+1. Download or clone using git clone https://github.com/abstainsolutions/react-crud-node.git
 2. Run any local server like wamp or xamp as we need to make DB connection
 3. Find react.sql file at root of application
 4. Create DB named "react" and import sql
